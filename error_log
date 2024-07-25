@@ -1,0 +1,144 @@
+[23-Jul-2024 01:49:21 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 01:49:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/blacsule/corvus.blackroses.love/mailer.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 01:53:40 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 01:53:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/blacsule/corvus.blackroses.love/mailer.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 01:54:30 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 01:54:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/blacsule/corvus.blackroses.love/mailer.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 01:57:09 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 01:57:09 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 01:57:09 UTC] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 01:57:35 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 01:57:35 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 01:57:35 UTC] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 01:58:33 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 01:58:33 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 01:58:33 UTC] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 01:58:36 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 01:58:36 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 01:58:36 UTC] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 01:59:00 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 01:59:00 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 01:59:00 UTC] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 01:59:38 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 01:59:38 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 01:59:38 UTC] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 01:59:47 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 01:59:47 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 01:59:47 UTC] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 01:59:49 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 01:59:49 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 01:59:49 UTC] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 01:59:51 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 01:59:51 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 01:59:51 UTC] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 01:59:52 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 01:59:52 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 01:59:52 UTC] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:00:12 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:00:12 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:00:12 UTC] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:05:37 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:05:37 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:05:37 UTC] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:07:17 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:07:17 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:07:17 UTC] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:08:08 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:08:08 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:08:08 UTC] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:13:38 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:13:38 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:13:38 UTC] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:17:22 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:17:22 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:17:22 UTC] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:17:26 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:17:26 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:17:26 UTC] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:17:29 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:17:29 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:17:29 UTC] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:17:31 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:17:31 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:17:31 UTC] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:17:36 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:17:36 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:17:36 UTC] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:22:30 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:22:30 UTC] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:22:30 UTC] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:35:56 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:35:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/blacsule/corvus.blackroses.love/mailer.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:38:08 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:38:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/blacsule/corvus.blackroses.love/mailer.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:41:28 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:41:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/blacsule/corvus.blackroses.love/mailer.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:41:30 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:41:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/blacsule/corvus.blackroses.love/mailer.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:42:23 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:42:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/blacsule/corvus.blackroses.love/mailer.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:44:56 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 02:44:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/blacsule/corvus.blackroses.love/mailer.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 17:02:37 UTC] PHP Warning:  require(phpmailer/src/Exception.php): Failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 17:02:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/blacsule/corvus.blackroses.love/mailer.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 17:04:20 UTC] PHP Warning:  require(corvus.blackroses.love/PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 17:04:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'corvus.blackroses.love/PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/blacsule/corvus.blackroses.love/mailer.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 17:06:21 UTC] PHP Warning:  require(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 17:06:21 UTC] PHP Warning:  require(https://corvus.blackroses.love/PHPMailer/src/Exception.php): Failed to open stream: no suitable wrapper could be found in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 17:06:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'https://corvus.blackroses.love/PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/blacsule/corvus.blackroses.love/mailer.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/blacsule/corvus.blackroses.love/mailer.php on line 5
+[23-Jul-2024 17:08:53 UTC] PHP Warning:  Undefined array key "attachment" in /home/blacsule/corvus.blackroses.love/mailer.php on line 17
+[23-Jul-2024 17:08:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/blacsule/corvus.blackroses.love/mailer.php on line 17
+[23-Jul-2024 17:08:53 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/blacsule/corvus.blackroses.love/mailer.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/blacsule/corvus.blackroses.love/mailer.php on line 20
+[23-Jul-2024 17:12:37 UTC] PHP Warning:  Undefined array key "attachment" in /home/blacsule/corvus.blackroses.love/mailer.php on line 40
+[23-Jul-2024 17:12:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/blacsule/corvus.blackroses.love/mailer.php on line 40
+[23-Jul-2024 18:28:06 UTC] PHP Warning:  Undefined array key "score" in /home/blacsule/corvus.blackroses.love/mailer.php on line 17
+[23-Jul-2024 18:34:32 UTC] PHP Warning:  Undefined array key "score" in /home/blacsule/corvus.blackroses.love/mailer.php on line 17
+[23-Jul-2024 18:37:35 UTC] PHP Warning:  Undefined array key "fname" in /home/blacsule/corvus.blackroses.love/mailer.php on line 13
+[23-Jul-2024 18:37:35 UTC] PHP Warning:  Undefined array key "email" in /home/blacsule/corvus.blackroses.love/mailer.php on line 14
+[23-Jul-2024 18:37:35 UTC] PHP Warning:  Undefined array key "subject" in /home/blacsule/corvus.blackroses.love/mailer.php on line 15
+[23-Jul-2024 18:37:35 UTC] PHP Warning:  Undefined array key "message" in /home/blacsule/corvus.blackroses.love/mailer.php on line 16
+[23-Jul-2024 18:38:04 UTC] PHP Warning:  Undefined array key "score" in /home/blacsule/corvus.blackroses.love/mailer.php on line 17
+[23-Jul-2024 18:39:59 UTC] PHP Warning:  Undefined array key "fname" in /home/blacsule/corvus.blackroses.love/mailer.php on line 13
+[23-Jul-2024 18:39:59 UTC] PHP Warning:  Undefined array key "email" in /home/blacsule/corvus.blackroses.love/mailer.php on line 14
+[23-Jul-2024 18:39:59 UTC] PHP Warning:  Undefined array key "subject" in /home/blacsule/corvus.blackroses.love/mailer.php on line 15
+[23-Jul-2024 18:39:59 UTC] PHP Warning:  Undefined array key "message" in /home/blacsule/corvus.blackroses.love/mailer.php on line 16
+[23-Jul-2024 18:40:18 UTC] PHP Warning:  Undefined array key "score" in /home/blacsule/corvus.blackroses.love/mailer.php on line 17
